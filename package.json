@@ -1,0 +1,8 @@
+{
+  "name": "react-webpack4-babel7-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/smeads/react-webpack4-babel7-starter.git",
+  "author": "Steven Meads <sbmeads@gmail.com>",
+  "license": "MIT"
+}
